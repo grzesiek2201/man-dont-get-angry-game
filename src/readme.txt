@@ -1,0 +1,1 @@
+plik 'board_map.txt' powinien znajdować się w tym samym folderze, w którym znajduje się reszta plików
