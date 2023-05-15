@@ -1,2 +1,2 @@
-# Man, don't get angry
- Projekt Inf III, c++, gra planszowa chińczyk w konsoli
+## Man, don't get angry
+C++ end of semestr project from 2019
